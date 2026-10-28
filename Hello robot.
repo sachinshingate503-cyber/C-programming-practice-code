@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello Robot!\n");
+    printf("Robot is Ready!");
+
+    return 0;
+}
