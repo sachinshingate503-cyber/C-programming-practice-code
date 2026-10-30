@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main()
+{
+    int a = 20, b = 10;
+    int div;
+
+    div = a / b;
+
+    printf("Division = %d", div);
+
+    return 0;
+}
